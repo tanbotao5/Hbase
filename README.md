@@ -1,2 +1,8 @@
 # Hbase
 通过thrift操作Hbse数据库以及常用接口汇总！
+
+Hbase做为apache基金会的顶级项目，被中国各大公司广泛采用，原生代码采用java语言编写，为了方便多语言集成。开发了thrift项目多语言
+客户端，可以做为一个小型server或者或以修改集成自己喜欢的语言编写。
+
+本示例代码利用python来操作HBase数据库。由于市面上python操作hbase的接口说明不多，所以对thrift生成的python接口全部测试做了说明，
+并提供示例代码，来操作hbase数据库存！无限想象哦！
